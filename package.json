@@ -14,5 +14,6 @@
     "turbo": "latest"
   },
   "packageManager": "pnpm@7.15.0",
-  "name": "gastos"
+  "name": "gastos",
+  "dependencies": {}
 }
